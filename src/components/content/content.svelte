@@ -14,6 +14,5 @@
 	.content {
 		width: 100%;
         padding-top: 70px;
-		background: blue;
 	}
 </style>
