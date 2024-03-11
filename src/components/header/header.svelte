@@ -7,9 +7,10 @@
 	<Title title="InTake" />
 
 	<nav class="options">
-		<Option title="Inicio" page='/' />
-		<Option title="Quienes somos" page='/about' />
+		<Option title="Home" page='/' />
+		<Option title="About" page='/about' />
 		<Option title="Api" page='/api'/>
+		<Option title="Help" page='/api'/>
     </nav>
 </header>
 

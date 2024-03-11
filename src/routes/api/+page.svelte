@@ -7,9 +7,4 @@
 <Header />
 <Content>
 	<p>api</p>
-	<p>api</p>
-	<p>api</p>
-	<p>api</p>
-	<p>api</p>
-	<p>api</p>
 </Content>
